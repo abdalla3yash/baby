@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723801467734",
+    "firebase_url": "https://naraa-4453.firebaseio.com",
+    "project_id": "naraa-4453",
+    "storage_bucket": "naraa-4453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723801467734:android:431720ed40049b18",
+        "android_client_info": {
+          "package_name": "com.ayash.nursery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723801467734-tcjsabaks541masgspv2tlmo0u2igmcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ayash.nursery",
+            "certificate_hash": "ba526806e38a91dda5578c14dfcef2dfef035c95"
+          }
+        },
+        {
+          "client_id": "723801467734-30cdo5vv4nsm8s8dcqk31j49rmb6stim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUYwObEFA0X77ZxwROTF7_5ZgMBoz4f_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723801467734-30cdo5vv4nsm8s8dcqk31j49rmb6stim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
